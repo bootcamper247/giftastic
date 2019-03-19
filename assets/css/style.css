@@ -1,0 +1,40 @@
+* { 
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightgray;
+    color:black;
+}
+
+h1{
+    background-color: black;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    text-align: center;
+    margin-bottom: 20px;
+    font-family: 'Itim', cursive;
+    color: white;
+    font-size: 50px;
+}
+
+#gifDiv{
+    float: left;
+}
+
+#idRating{
+    text-align: center;
+    color: black;
+}
+
+.gifs{
+
+    margin: 10px;
+    margin-top: 1px;
+    margin-bottom: 20px;
+    height: 200px;
+    cursor: pointer;
+    border: 3px solid lightcyan;
+}
+
+
