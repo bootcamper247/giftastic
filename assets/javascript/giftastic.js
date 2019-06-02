@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
 
-    const key = "dc6zaTOxFJmzC";
+    const key = "G46lZIryTGCUU";
     var queryURL = "https://api.giphy.com/v1/gifs/search?rating=g&api_key=" + key + "&limit=10&q=";
 
     var topics = ["Tennis", "Swimming", "Soccer", "Skiing", "Nascar", "Hockey"];
